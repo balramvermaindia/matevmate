@@ -1,0 +1,6 @@
+{
+    "require": {
+        "new/package": "~2.5",
+        "amostajo/laravel-shop-gateway-omnipay": "1.0.*"
+    }
+}
